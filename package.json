@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dcruzjs/api-rest-js-project.git"
+    "url": "git+https://github.com/Dcruzjs/pro-api-rest-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dcruzjs/api-rest-js-project/issues"
+    "url": "https://github.com/Dcruzjs/pro-api-rest-js/issues"
   },
-  "homepage": "https://github.com/Dcruzjs/api-rest-js-project#readme"
+  "homepage": "https://github.com/Dcruzjs/pro-api-rest-js"
 }

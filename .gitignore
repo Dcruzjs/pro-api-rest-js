@@ -144,4 +144,4 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 #Settings.js
-src/settings.js
+#src/settings.js
